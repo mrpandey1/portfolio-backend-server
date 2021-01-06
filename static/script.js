@@ -10,6 +10,7 @@ const logo = document.querySelector("#header>div.logo>a>img")
 const scrollDownArrow = document.querySelector("#hero>div.scroll-down-arrow>img");
 const email = document.querySelector("main>#hero>.email>a>p");
 const themeColorMeta = document.querySelector("meta[name='theme-color']");
+const thankYou=document.querySelector('.thankyou>center>p');
 // console.log(themeColorMeta)
 
 function loading() {
